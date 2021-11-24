@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/design-marketplace/build/static/css/main.c1f470d6.chunk.css",
+    "main.js": "/design-marketplace/build/static/js/main.2cc3c2f5.chunk.js",
+    "main.js.map": "/design-marketplace/build/static/js/main.2cc3c2f5.chunk.js.map",
+    "runtime-main.js": "/design-marketplace/build/static/js/runtime-main.53af1428.js",
+    "runtime-main.js.map": "/design-marketplace/build/static/js/runtime-main.53af1428.js.map",
+    "static/js/2.4a442b19.chunk.js": "/design-marketplace/build/static/js/2.4a442b19.chunk.js",
+    "static/js/2.4a442b19.chunk.js.map": "/design-marketplace/build/static/js/2.4a442b19.chunk.js.map",
+    "static/js/3.f9feb19e.chunk.js": "/design-marketplace/build/static/js/3.f9feb19e.chunk.js",
+    "static/js/3.f9feb19e.chunk.js.map": "/design-marketplace/build/static/js/3.f9feb19e.chunk.js.map",
+    "index.html": "/design-marketplace/build/index.html",
+    "static/css/main.c1f470d6.chunk.css.map": "/design-marketplace/build/static/css/main.c1f470d6.chunk.css.map",
+    "static/js/2.4a442b19.chunk.js.LICENSE.txt": "/design-marketplace/build/static/js/2.4a442b19.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53af1428.js",
+    "static/js/2.4a442b19.chunk.js",
+    "static/css/main.c1f470d6.chunk.css",
+    "static/js/main.2cc3c2f5.chunk.js"
+  ]
+}
